@@ -1,0 +1,3 @@
+export ALIEN_USER=agomezra
+export ALIEN_DOMAIN=iri.uni-frankfurt.de
+export ALIEN_WORKDIR=/var/lib/aliprod/.alien/tmp
